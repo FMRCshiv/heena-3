@@ -1,0 +1,72 @@
+*{
+
+    margin: 0;;
+    color: #fff;
+    background-color: #000;
+
+}
+
+body{
+
+
+}
+
+
+#main-navbar{
+   
+    display: flex;
+    height:240px;
+    width: 100vw;
+    background-color: #000000;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+#Mehndi-Hackel-h1-heading{
+
+    font-size: 5vmax;
+  
+}
+
+
+#nav2{
+
+  
+    height: 5vh;
+    width:100vw;
+    background-color: #191919;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+#id{
+
+    margin: 3vw;
+}
+
+#image-box{
+
+    margin:5vw ;
+    background-color: transparent;
+    border: #191919 solid;
+    height:450px;
+    width: 280px;
+    display: flex;
+}
+
+#img-1{
+
+    height:450px;
+    width: 280px;
+}
+
+
+#description-box{
+
+     margin: 5vh;    
+
+}

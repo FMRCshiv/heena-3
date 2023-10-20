@@ -1,0 +1,114 @@
+*{
+
+    margin: 0;;
+    color: #fff;
+    background-color: #000;
+
+}
+
+
+
+#main-navbar{
+   
+    display: flex;
+    height:240px;
+    width: 100vw;
+    background-color: #000000;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.material-symbols-outlined{
+
+    text-align: right;
+}
+
+#Mehndi-Hackel-h1-heading{
+
+    font-size: 5vmax;
+  
+}
+
+
+
+#nav2{
+
+  
+    height: 5vh;
+    width:100vw;
+    background-color: #191919;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+#Home{
+    text-decoration: none;
+    padding:2vw;
+    font-size: 1.5vmax;
+  
+}
+
+
+
+#Gallery{
+    text-decoration: none;
+    padding:2vw;
+    font-size: 1.5vmax;
+}
+
+
+#About{
+    text-decoration: none;
+    padding:2vw;
+    font-size: 1.5vmax;
+}
+ 
+
+#Book-us-Online{
+    text-decoration: none;
+    padding:2vw;
+    font-size: 1.5vmax;
+}
+
+
+.comming{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.comming-soon{
+
+    font-size: larger;
+
+}
+
+
+#content{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+#link-of-google-doc{
+    margin-top: 4vh;
+    
+}
